@@ -2,8 +2,11 @@
 import React from "react"
 import styled from "styled-components"
 
+//--components--
+import Layout from "../components/layout"
+
 const IndexPage = () => {
-  return <div>Hello there</div>
+  return <Layout>Hello there</Layout>
 }
 
 export default IndexPage
