@@ -30,6 +30,7 @@
   ],
   "license": "0BSD",
   "scripts": {
+    "bootstrap": "npm install react-bootstrap bootstrap",
     "init": "npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components gatsby-plugin-google-fonts",
     "build": "gatsby build",
     "develop": "gatsby develop",
